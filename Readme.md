@@ -5,8 +5,8 @@
 </div>
 
 <!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=projectdanz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/projectdanz?label=Followers&style=social" alt="GitHub Followers" />
 </div> -->
 
 ## 🚀 About Me
@@ -60,48 +60,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projectdanz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectdanz&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=projectdanz&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/projectdanz/projectdanz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/projectdanz/projectdanz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/projectdanz/projectdanz/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<!-- Alternative: Jika ingin tampilan yang lebih simple -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> -->
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div> -->
-<!-- ## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div> -->
-
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div> -->
-
-<!-- ## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div> -->
 
 ## 💡 Skills Progress
 
@@ -117,20 +92,20 @@ Version Control       ███████████████████�
 
 <div align="center">
 
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+<a href="https://github.com/projectdanz/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectdanz&repo=project1&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+<a href="https://github.com/projectdanz/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectdanz&repo=project2&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/yourusername/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight" />
+<a href="https://github.com/projectdanz/project3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectdanz&repo=project3&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/yourusername/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight" />
+<a href="https://github.com/projectdanz/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectdanz&repo=project4&theme=tokyonight" />
 </a>
 
 </div>
@@ -141,9 +116,6 @@ Version Control       ███████████████████�
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
   <a href="mailto:akunprojectdanz@gmail.com?subject=Hello%20Mas%20Danz&body=Hi%20Mas%20Danz%2C%0A%0AI%20would%20like%20to%20ask..." target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
