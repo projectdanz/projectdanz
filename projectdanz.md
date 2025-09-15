@@ -68,6 +68,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <!-- ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -90,14 +100,27 @@ API Development       ██████████████████    
 Version Control       ████████████████████  95%
 ```
 
-<!-- ## 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+<a href="https://github.com/yourusername/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+</a>
 
-</div> -->
+<a href="https://github.com/yourusername/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/yourusername/project3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/yourusername/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight" />
+</a>
+
+</div>
 
 ## 📞 Connect with Me
 
