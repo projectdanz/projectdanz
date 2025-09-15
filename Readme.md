@@ -68,8 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
@@ -77,6 +76,20 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<!-- Alternative: Jika ingin tampilan yang lebih simple -->
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div> -->
+<!-- ## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div> -->
+<!-- ## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div> -->
 
 <!-- ## 🏆 GitHub Trophies
 
